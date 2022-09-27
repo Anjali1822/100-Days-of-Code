@@ -1,3 +1,6 @@
 # 100-Days-of-Code
 
-I have joined 100 days of Code challenge 
+I have participated in 100 Days of Code Program by CodeIN Community
+
+
+
